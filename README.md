@@ -5,7 +5,7 @@ With 12 years of work experience, I bring a unique blend of skills, discipline, 
 
 ## 🌱 I’m currently learning
 
- Currently, I am enrolled in the Bachelor of Computer Science and Mathematics(Honors). I am actively deepening my understanding and skills in backend development with a focus on AI and ML.
+ Currently, I am enrolled in the Bachelor of Computer Science and Mathematics(Honors) at Trent University, Ontario, Canada. I am actively deepening my understanding and skills in backend development with a focus on AI and ML.
 
 - **Python:** Mastering the language as a cornerstone for AI and ML development.
 - **Java:** Exploring its versatility in backend development, particularly for enterprise applications and AI/ML integration.
